@@ -1,0 +1,9 @@
+.page-header{
+  background-color: grey;
+  color: green;
+  text-align:center;
+}
+.navbar{
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
